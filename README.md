@@ -1,8 +1,8 @@
 ¡Hola! Soy Gabriel Larrazábal 
 
- Software Developer | Backend & Data Enthusiast | Ex-MLB Athlete & High-Performance Coach
+ Software Developer | Backend & Data Enthusiast | Ex-Professional Baseball Player & Athlete & High-Performance Coach
 
-De los diamantes de las Grandes Ligas y las salas de entrenamiento de alto rendimiento al mundo del código. Mi trayectoria integra la disciplina de élite con la arquitectura de software avanzada. No solo escribo código; diseño soluciones basadas en la investigación, el análisis de datos y la resolución de problemas reales.
+De los diamantes del Beisbol Profesional y las salas de entrenamiento de alto rendimiento al mundo del código. Mi trayectoria integra la disciplina de élite con la arquitectura de software avanzada. No solo escribo código; diseño soluciones basadas en la investigación, el análisis de datos y la resolución de problemas reales.
 
  Sobre mí
 
